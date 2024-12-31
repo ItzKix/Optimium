@@ -20,4 +20,4 @@ Donation: https:// (Please use Eur)
 
 ## Features
 
-- More features are coming soom.
+- More features are coming soon.
