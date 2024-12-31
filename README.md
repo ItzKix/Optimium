@@ -14,7 +14,7 @@
 
 *This resource pack supports Minecraft Java Edition from 1.21*
 
-If you want to use my models in your own resourcepack, please follow the [licence](./LICENCE).
+If you want to use my models in your own resourcepack, please follow the [licence](./LICENSE).
 
 Donation: https:// (Please use Eur)
 
