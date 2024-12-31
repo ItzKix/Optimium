@@ -1,12 +1,12 @@
 # ItzKix's Optimium resourcepack
 
-[![downloads-github](https://img.shields.io/github/downloads/geforcelegend/minecraft-3d-default/total?logo=github)](https://github.com/GeForceLegend/Minecraft-3D-Default/releases)
-[![downloads-modrinth](https://img.shields.io/modrinth/dt/3d-default?logo=modrinth)](https://modrinth.com/resourcepack/3d-default)
-[![licence](https://img.shields.io/github/license/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default/blob/1.17_snapshot/LICENSE)
+[![downloads-github](https://github.com/ItzKix/Optimium/releases)
+[![downloads-modrinth](https://modrinth.com/project/optimiumrp)
+[![license](./LICENSE)
 [![stars](https://img.shields.io/github/stars/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default)
-[![release](https://img.shields.io/github/v/release/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default/releases/latest)
+[![release](https://github.com/ItzKix/Optimium/releases/latest)
 
-# ![img](https://z3.ax1x.com/2021/06/28/RNPwgU.png)
+# ![Illustration](https://z3.ax1x.com/2021/06/28/RNPwgU.png)
 
 *This resourcepack is for Minecraft Java Edition only.*
 
@@ -14,7 +14,7 @@
 
 *This resource pack supports Minecraft Java Edition from 1.21*
 
-If you want to use my models in your own resourcepack, please follow the [licence](./LICENSE).
+If you want to use my models or/and textures in your own resourcepack, please follow the [license](./LICENSE).
 
 Donation: https:// (Please use Eur)
 
