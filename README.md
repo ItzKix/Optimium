@@ -8,6 +8,8 @@
 
 # ![Illustration](image-url)
 
+## About
+
 *This resourcepack is for Minecraft Java Edition only.*
 
 *The name of each branch is the Minecraft version supported.*
