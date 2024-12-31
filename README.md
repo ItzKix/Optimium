@@ -1,10 +1,10 @@
 # ItzKix's Optimium resourcepack
 
-[![downloads-github](https://github.com/ItzKix/Optimium/releases?logo=github)](https://github.com/ItzKix/Optimium)
-[![downloads-modrinth](https://modrinth.com/project/optimiumrp)](https://github.com/ItzKix/Optimium)
-[![license](./LICENSE)](https://github.com/ItzKix/Optimium)
+[![downloads-github](https://img.shields.io/github/downloads/geforcelegend/minecraft-3d-default/total?logo=github)](https://github.com/ItzKix/Optimium/releases)
+[![downloads-modrinth](https://img.shields.io/modrinth/dt/3d-default?logo=modrinth)](https://modrinth.com/project/optimiumrp)
+[![license](https://img.shields.io/github/license/geforcelegend/minecraft-3d-default)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default)
-[![release](https://github.com/ItzKix/Optimium/releases/latest)](https://github.com/ItzKix/Optimium)
+[![release](https://img.shields.io/github/v/release/geforcelegend/minecraft-3d-default)](https://github.com/ItzKix/Optimium/releases/latest)
 
 # ![Illustration](https://z3.ax1x.com/2021/06/28/RNPwgU.png)
 
