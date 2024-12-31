@@ -1,6 +1,6 @@
 # ItzKix's Optimium resourcepack
 
-[![downloads-github](https://img.shields.io/github/downloads/geforcelegend/minecraft-3d-default/total?logo=github)](https://github.com/ItzKix/Optimium/releases)
+[![downloads-github](https://img.shields.io/github/downloads/ItzKix/Optimium/total?logo=github)](https://github.com/ItzKix/Optimium/releases)
 [![downloads-modrinth](https://img.shields.io/modrinth/dt/3d-default?logo=modrinth)](https://modrinth.com/project/optimiumrp)
 [![license](https://img.shields.io/github/license/geforcelegend/minecraft-3d-default)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default)
