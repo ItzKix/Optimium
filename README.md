@@ -14,11 +14,10 @@
 
 *This resource pack supports Minecraft Java Edition from 1.21*
 
-If you want to use my models or/and textures in your own resourcepack, please follow the [license](./LICENSE).
-
 ## Features
 
 - More features are coming soon.
+
 
 
 
