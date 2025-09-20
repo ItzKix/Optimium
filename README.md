@@ -1,4 +1,4 @@
-# ItzKix's Optimum resourcepack
+# ItzKix's Optimium resourcepack
 
 [![downloads-github](https://img.shields.io/github/downloads/ItzKix/Optimium/total?logo=github)](https://github.com/ItzKix/Optimium/releases)
 [![downloads-modrinth](https://img.shields.io/badge/download-modrinth-green?logo=modrinth)](https://modrinth.com/project/optimiumrp)
@@ -19,5 +19,6 @@ If you want to use my models or/and textures in your own resourcepack, please fo
 ## Features
 
 - More features are coming soon.
+
 
 
