@@ -1,9 +1,9 @@
-# ItzKix's Optimium resourcepack
+# Delta's Optimium resourcepack
 
 [![downloads-github](https://img.shields.io/github/downloads/ItzKix/Optimium/total?logo=github)](https://github.com/ItzKix/Optimium/releases)
 [![downloads-modrinth](https://img.shields.io/badge/download-modrinth-green?logo=modrinth)](https://modrinth.com/project/optimiumrp)
 [![license](https://img.shields.io/github/license/ItzKix/Optimium)](./LICENSE)
-[![stars](https://img.shields.io/github/stars/ItzKix/Optimium)](https://github.com/GeForceLegend/Minecraft-3D-Default)
+[![stars](https://img.shields.io/github/stars/ItzKix/Optimium)](https://github.com/ItzKix/Optimium/)
 
 # ![Illustration](image-url)
 
@@ -16,6 +16,7 @@
 ## Features
 
 - More features are coming soon.
+
 
 
 
