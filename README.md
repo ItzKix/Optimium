@@ -4,7 +4,6 @@
 [![downloads-modrinth](https://img.shields.io/badge/download-modrinth-green?logo=modrinth)](https://modrinth.com/project/optimiumrp)
 [![license](https://img.shields.io/github/license/ItzKix/Optimium)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/ItzKix/Optimium)](https://github.com/GeForceLegend/Minecraft-3D-Default)
-[![donation](https://img.shields.io/badge/support-patreon-orange?logo=patreon)](https://www.patreon.com/c/itzkix_)
 
 # ![Illustration](image-url)
 
@@ -17,6 +16,7 @@
 ## Features
 
 - More features are coming soon.
+
 
 
 
