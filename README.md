@@ -12,8 +12,6 @@
 
 *This resourcepack is for Minecraft Java Edition only.*
 
-*The name of each branch is the Minecraft version supported.*
-
 *This resource pack supports Minecraft Java Edition from 1.21*
 
 If you want to use my models or/and textures in your own resourcepack, please follow the [license](./LICENSE).
@@ -21,3 +19,4 @@ If you want to use my models or/and textures in your own resourcepack, please fo
 ## Features
 
 - More features are coming soon.
+
