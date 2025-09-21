@@ -2,7 +2,7 @@
 
     [![downloads-github](https://img.shields.io/github/downloads/ItzKix/Optimium/total?logo=github)](https://github.com/ItzKix/Optimium/releases)
     [![downloads-modrinth](https://img.shields.io/badge/download-modrinth-green?logo=modrinth)](https://modrinth.com/project/optimiumrp)
-    [![license](https://img.shields.io/github/license/ItzKix/Optimium)](./LICENSE)
+    [![license](https://img.shields.io/badge/license-All_Rights_Reseved-blue)](./LICENSE)
     [![stars](https://img.shields.io/github/stars/ItzKix/Optimium)](https:github.com/ItzKix/Optimium/)
 
 ## ![Illustration](image-url)
