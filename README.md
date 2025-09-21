@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/github/license/ItzKix/Optimium)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/ItzKix/Optimium)](https://github.com/ItzKix/Optimium/)
 
-# ![Illustration](image-url)
+## ![Illustration](image-url)
 
 ## About
 
@@ -16,9 +16,3 @@
 ## Features
 
 - More features are coming soon.
-
-
-
-
-
-
