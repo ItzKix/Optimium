@@ -1,18 +1,18 @@
 # Delta's Optimium resourcepack
 
-    [![downloads-github](https://img.shields.io/github/downloads/ItzKix/Optimium/total?logo=github)](https://github.com/ItzKix/Optimium/releases)
-    [![downloads-modrinth](https://img.shields.io/badge/download-modrinth-green?logo=modrinth)](https://modrinth.com/project/optimiumrp)
-    [![license](https://img.shields.io/badge/license-All_Rights_Reseved-blue)](./LICENSE)
-    [![stars](https://img.shields.io/github/stars/ItzKix/Optimium)](https:github.com/ItzKix/Optimium/)
+[![downloads-github](https://img.shields.io/github/downloads/ItzKix/Optimium/total?logo=github)](https://github.com/ItzKix/Optimium/releases)
+[![downloads-modrinth](https://img.shields.io/badge/download-modrinth-green?logo=modrinth)](https://modrinth.com/project/optimiumrp)
+[![license](https://img.shields.io/badge/license-All_Rights_Reseved-blue)](./LICENSE)
+[![stars](https://img.shields.io/github/stars/ItzKix/Optimium)](https:github.com/ItzKix/Optimium/)
 
 ## ![Illustration](image-url)
 
 ## About
 
-    *This resourcepack is for Minecraft Java Edition only.*
+*This resourcepack is for Minecraft Java Edition only.*
 
-    *This resource pack supports Minecraft Java Edition from 1.21*
+*This resource pack supports Minecraft Java Edition from 1.21*
 
 ## Features
 
-    - More features are coming soon.
+- More features are coming soon.
